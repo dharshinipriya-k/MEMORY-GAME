@@ -1,0 +1,1 @@
+This project is on Memory game created using colors using DOM. All the necessary logics have been included and user will get an popup on winning the game.
